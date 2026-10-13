@@ -1,6 +1,6 @@
 # Entra Identity Posture MCP
 
-[![CI](https://github.com/henrymbuguakiarie/entra-identity-posture-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/henrymbuguakiarie/entra-identity-posture-mcp/actions/workflows/ci.yml)
+[![CI](https://github.com/henrymbuguak/entra-identity-posture-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/henrymbuguak/entra-identity-posture-mcp/actions/workflows/ci.yml)
 
 An Agentic Security and Governance [MCP](https://modelcontextprotocol.io/) server built with **FastMCP** and the **Microsoft Graph API** for auditing Microsoft Entra ID app registrations and Conditional Access policies against Zero-Trust principles — and generating dry-run remediation scripts an AI agent (or human) can review and run.
 
@@ -70,7 +70,7 @@ flowchart LR
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/henrymbuguakiarie/entra-identity-posture-mcp.git
+git clone https://github.com/henrymbuguak/entra-identity-posture-mcp.git
 cd entra-identity-posture-mcp
 ```
 
@@ -416,4 +416,4 @@ Both are fast-follow candidates now that v1 has been validated against a live te
 
 ## License
 
-MIT © [Henry Mbugua](https://github.com/henrymbuguakiarie)
+MIT © [Henry Mbugua](https://github.com/henrymbuguak)
